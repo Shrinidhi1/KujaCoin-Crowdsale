@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# KujaCoin - ERC20
 
 ### Table of Contents
 
@@ -9,7 +9,11 @@
 
 ## Overview
 
-We created a fungible token called to kujaCoin that is ERC-20 compliant for a Crowdsale contract from the OpenZeppelin Solidity library.
+1. We created KujaCoin, an ERC-20 compliant fungible token, and implemented an automated crowdsale for tokens using Solidity smart contracts. 
+2. We used Hardhat as the development environment for compiling, testing, and deploying the smart contracts, and deployed the project on a Ganache personal blockchain integrated with the Hardhat environment. 
+3. The Ganache blockchain was also integrated with Remix via MetaMask. 
+4. Deploying the project on a local blockchain allowed us to test and debug the smart contracts before deploying them on the main Ethereum network. 
+5. Overall, the use of Solidity smart contracts, Hardhat, and a local blockchain allowed us to create, test, and deploy a functional cryptocurrency project with minimal risk or cost.
 
 ---
 
